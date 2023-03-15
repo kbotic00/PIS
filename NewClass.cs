@@ -6,5 +6,6 @@ namespace lab1_katarinab
 {
     class NewClass
     {
+        //promjena na klasi
     }
 }
