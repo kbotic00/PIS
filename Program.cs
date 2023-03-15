@@ -8,6 +8,9 @@ namespace lab1_katarinab
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Još novije.");
+            
+            
         }
     }
 }
